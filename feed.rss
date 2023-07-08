@@ -2,9 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>Alexey Reshetnyak</title><link>http://example.com/blog/index.html</link>
 <description>Мемуары</description><language>en</language>
-<lastBuildDate>Sat, 08 Jul 2023 22:36:47 +0300</lastBuildDate>
-<pubDate>Sat, 08 Jul 2023 22:36:47 +0300</pubDate>
+<lastBuildDate>Sat, 08 Jul 2023 22:56:54 +0300</lastBuildDate>
+<pubDate>Sat, 08 Jul 2023 22:56:54 +0300</pubDate>
 <atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+test4
+</title><description><![CDATA[
+
+test4
+
+<!-- text end -->
+]]></description><link>http://example.com/blog/test423500.html</link>
+<guid>http://example.com/blog/./test423500.html</guid>
+<dc:creator>Alexey Reshetnyak</dc:creator>
+<pubDate>Sat, 08 Jul 2023 22:56:52 +0300</pubDate></item>
 <item><title>
 15 лет в поисках искусственного интеллекта
 </title><description><![CDATA[
